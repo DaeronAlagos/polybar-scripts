@@ -11,11 +11,6 @@ Displays current Time Warrior status
 * [GNU date](http://www.gnu.org/software/coreutils/date)
 * [jq](https://github.com/stedolan/jq/)
 
-## Configuration
-
-{ Perhaps a few words about the configuration, if necessary }
-
-
 ## Module
 
 ```ini
